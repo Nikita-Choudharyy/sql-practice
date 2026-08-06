@@ -6,7 +6,7 @@ Welcome to my SQL learning repository! This space is dedicated to tracking my jo
 
 The repository is structured into organized folders, where each folder contains targeted SQL scripts (`.sql`) and a detailed topic breakdown.
 
-### 🗂️ Modules Breakdown
+### 🗂️ Modules Breakdown 
 
 1. **`01_DDL_Basics/`** (Data Definition Language)
    - Creating databases and tables
